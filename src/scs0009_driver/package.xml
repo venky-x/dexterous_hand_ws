@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>scs0009_driver</name>
+  <version>0.0.1</version>
+  <description>Custom Feetech SCS0009 servo driver for ROS 2</description>
+
+  <maintainer email="vengatesrajagopal@gmail.com">Vengates</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
